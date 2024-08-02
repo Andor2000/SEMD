@@ -1,0 +1,10 @@
+C:\Users\anore\source\repos\SEMD\SEMD\bin\Debug\SEMD.exe.config
+C:\Users\anore\source\repos\SEMD\SEMD\bin\Debug\SEMD.exe
+C:\Users\anore\source\repos\SEMD\SEMD\bin\Debug\SEMD.pdb
+C:\Users\anore\source\repos\SEMD\SEMD\obj\Debug\SEMD.csproj.AssemblyReference.cache
+C:\Users\anore\source\repos\SEMD\SEMD\obj\Debug\SEMD.Form1.resources
+C:\Users\anore\source\repos\SEMD\SEMD\obj\Debug\SEMD.Properties.Resources.resources
+C:\Users\anore\source\repos\SEMD\SEMD\obj\Debug\SEMD.csproj.GenerateResource.cache
+C:\Users\anore\source\repos\SEMD\SEMD\obj\Debug\SEMD.csproj.CoreCompileInputs.cache
+C:\Users\anore\source\repos\SEMD\SEMD\obj\Debug\SEMD.exe
+C:\Users\anore\source\repos\SEMD\SEMD\obj\Debug\SEMD.pdb
